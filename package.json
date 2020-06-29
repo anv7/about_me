@@ -43,7 +43,6 @@
     "file-loader": "^6.0.0",
     "happypack": "^5.0.1",
     "html-webpack-plugin": "4.0.4",
-    "husky": "^4.2.5",
     "less": "^3.11.1",
     "less-loader": "^6.0.0",
     "lint-staged": "^10.2.0",
@@ -82,11 +81,6 @@
   "bugs": "https://github.com/zhaoky/flqin/issues",
   "author": "Korey <keyu.zhao@foxmail.com>",
   "license": "MIT",
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "lint-staged": {
     "**/*": [
       "eclint fix",
