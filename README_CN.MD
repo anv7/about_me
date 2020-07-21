@@ -7,22 +7,9 @@
 </p>
 
 [English](./README.MD) | 中文
-
-#### 百度搜索: [web 前端工程师简历](https://www.baidu.com/s?ie=UTF-8&wd=web%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%AE%80%E5%8E%86)
-
-![](https://raw.githubusercontent.com/zhaoky/flqin/master/src/assets/web.jpg)
-
 ## MISC
 
-很多朋友给我发邮件学习怎么制作这样的简历，其实你只需要将本项目 fork，试着将项目跑起来就可以了！
-
 因 MVVM 框架众多且在不断更新，前一版（angular1.6）已废弃，最后选择自己实现一个了[MVVM 框架](https://github.com/zhaoky/mvvm)服务于本项目。
-
-有任何疑问和建议请[点击此处](https://github.com/zhaoky/flqin/issues)，互相学习，共同进步！
-
-也欢迎朋友们加入 Q 群：[Fe.d 小分队](http://t.cn/RtlQbTq) ，里面有众多未来大牛及海量学习资源，是一个前端初学者的学习交流平台。
-
-喜欢请点个 star 吧！💕💕
 
 ## 项目启动流程
 
