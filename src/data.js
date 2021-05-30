@@ -21,7 +21,7 @@ export default {
       titleList: [
         {
           svg: dHome,
-          title: '首页'
+          title: '首页1'
         },
         {
           svg: dSkills,
