@@ -25,7 +25,7 @@ export default {
         },
         {
           svg: dSkills,
-          title: '能1力'
+          title: '能力'
         },
         {
           svg: dExp,
