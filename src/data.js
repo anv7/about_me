@@ -41,11 +41,11 @@ export default {
         }
       ]
     },
-    footer: ['Released under the MIT License', 'All Rights Reserved ', `Copyright © 2014-${new Date().getFullYear()} RainGOrr`],
+    footer: ['Released under the MIT License', 'All Rights Reserved ', `Copyright © 2014-${new Date().getFullYear()} RainGorr`],
     overview: {
       infoList: ['28岁', '本科', '苏州', '在职'],
       quote: '生活是一种绵延不绝的渴望，渴望不断上升变得更伟大而高贵。',
-      desList: ['我叫高航，前端工程师一枚', '电商&增长团队前端负责人', 'anvseven@gmail.com']
+      desList: ['我叫高航，前端工程师一枚', '高级前端开发工程师', 'anvseven@gmail.com']
     },
     skill: {
       outCircleList: [
@@ -124,11 +124,7 @@ export default {
           name: '部署'
         }
       ],
-      desList: [
-        '四年前端开发经验',
-        '实际主导开发过多平台项目（APP，PC，H5，小程序，快应用等），制定并规范团队协作模式',
-        '前端技术栈均有尝试，擅长组件开发及构建优化',
-      ]
+      desList: ['四年前端开发经验', '实际主导开发过多平台项目（APP，PC，H5，小程序，快应用等），制定并规范团队协作模式', '前端技术栈均有尝试，擅长组件开发及构建优化']
     },
     exp: {
       expList: [
@@ -139,7 +135,7 @@ export default {
           img: {
             backgroundImage: `url(${eJm})`
           },
-          contentList: ['负责聚美优品电商及增长FE团队的日常工作', '参与街电CRM开发，美点无人货架C/S开发等', '主导开发聚美等若干小程序/快应用及增长活动', '优化重构聚美底层若干库如jumei-sdk等']
+          contentList: ['负责核心产品收银机前端开发的日常工作', '参与商超收银的CRM开发，无人货架C/S开发等', '主导开发收银Saas等若干小程序/快应用及增长活动', '']
         },
         {
           title: '中国矿业大学出版社科技有限公司',
@@ -195,8 +191,7 @@ export default {
         },
         {
           title: '中仑菜市场广告屏',
-          des:
-            '一站式、全生命周期的中仑移动服务平台，涵盖PC、安卓、IOS、微信平台，上线学校包括中央财经大学，北京交通大学，中国戏曲学院，辽宁大学，西南财经大学等等，下载量数十万，深受学生老师喜爱。',
+          des: '一站式、全生命周期的中仑移动服务平台，涵盖PC、安卓、IOS、微信平台，上线学校包括中央财经大学，北京交通大学，中国戏曲学院，辽宁大学，西南财经大学等等，下载量数十万，深受学生老师喜爱。',
           url: 'http://app.cufe.edu.cn/'
         },
         {
@@ -242,7 +237,7 @@ export default {
         },
         {
           icon: sZh,
-          url: 'https://www.zhihu.com/people/fe_korey'
+          url: 'https://www.zhihu.com/people/anv7'
         },
         {
           icon: sJj,
@@ -277,11 +272,11 @@ export default {
         }
       ]
     },
-    footer: ['Released under the MIT License', 'All Rights Reserved ', `Copyright © 2014-${new Date().getFullYear()} Korey Zhao`],
+    footer: ['Released under the MIT License', 'All Rights Reserved ', `Copyright © 2014-${new Date().getFullYear()} RainGorr`],
     overview: {
-      infoList: ['28years', 'B.S.', 'ChengDu', 'On Job'],
+      infoList: ['28years', 'B.S.', 'Suzhou', 'On Job'],
       quote: 'Life is a kind of endless yearning, eager to continue to rise, become more great and noble.',
-      desList: ['I am Korey Zhao, FE engineer', 'Jumei（chengdu）E-commerce & growth team FE leader', 'keyu.zhao@foxmail.com']
+      desList: ['I am RainGorr, FE engineer', 'QiChaCha (Qcc.com) E-commerce', 'anvseven@gmail.com']
     },
     skill: {
       outCircleList: [
@@ -370,9 +365,9 @@ export default {
     exp: {
       expList: [
         {
-          title: 'Jumei(chengdu)',
-          time: '2017.04-now',
-          post: 'Senior FE engineer/leader',
+          title: 'Qcc(Suchou)',
+          time: '2019.04-now',
+          post: 'Senior FE engineer',
           img: {
             backgroundImage: `url(${eJm})`
           },
