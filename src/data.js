@@ -45,7 +45,7 @@ export default {
     overview: {
       infoList: ['28岁', '本科', '苏州', '在职'],
       quote: '生活是一种绵延不绝的渴望，渴望不断上升变得更伟大而高贵。',
-      desList: ['我叫高航2，前端工程师一枚', '高级前端开发工程师', 'anvseven@gmail.com']
+      desList: ['我叫高航，前端工程师一枚', '高级前端开发工程师', 'anvseven@gmail.com']
     },
     skill: {
       outCircleList: [
